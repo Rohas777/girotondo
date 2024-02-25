@@ -597,7 +597,7 @@ main {
 
 .offer__rainbow {
   position: absolute;
-  bottom: -4%;
+  bottom: -6%;
   left: 50%;
   transform: translateX(-50%);
   width: 594px;
